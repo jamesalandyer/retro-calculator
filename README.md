@@ -1,4 +1,4 @@
-This is my second iOS app.
+Retro Calculator iOS Application
 
 This is a basic calculator that is styled to make it look retro. It has cool sound effects when you click on a button.
 
